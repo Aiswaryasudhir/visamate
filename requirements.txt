@@ -1,0 +1,29 @@
+# Core LangChain ecosystem
+langchain>=0.2.0
+langchain-community>=0.2.0
+langchain-openai>=0.1.0
+langchain-text-splitters>=0.2.0
+langchain-chroma>=0.1.0
+langchain-groq>=0.1.0
+langchain-google-genai>=2.0.0
+
+# Vector database
+chromadb>=0.5.0
+
+# OpenAI + token handling
+openai>=1.30.0
+tiktoken>=0.7.0
+
+# Retrieval
+rank-bm25>=0.2.2
+
+# Web scraping / HTML parsing
+beautifulsoup4>=4.12.0
+lxml>=5.0.0
+playwright>=1.50.0
+
+# Environment variables
+python-dotenv>=1.0.0
+
+# Web UI (Phase 2)
+streamlit>=1.36.0
