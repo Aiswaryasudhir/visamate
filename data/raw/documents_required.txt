@@ -1,0 +1,216 @@
+STUDENT VISA (SUBCLASS 500) — DOCUMENT CHECKLIST
+=================================================
+Last updated: May 2026
+Sources: Department of Home Affairs Document Checklist Tool
+(immi.homeaffairs.gov.au/visas/web-evidentiary-tool),
+Genuine Student requirement page, Study Australia.
+
+This is a consolidated checklist. The exact documents you
+need depend on your country of origin, course type, and
+personal circumstances. Always run the official Document
+Checklist Tool on the Department of Home Affairs website
+for your specific case.
+
+
+1. CORE IDENTITY AND ENROLMENT DOCUMENTS
+-----------------------------------------
+Valid passport:
+- Must be valid for the entire visa period.
+- Bio-data page is uploaded to ImmiAccount.
+
+Confirmation of Enrolment (CoE):
+- Issued by your CRICOS-registered Australian education
+  provider via the PRISMS system after you accept your
+  offer and pay any required tuition deposit.
+- A Letter of Offer is NOT sufficient — only a CoE counts.
+- One CoE per course in your study package.
+- The CoE confirms course name, AQF level, start date,
+  duration, and tuition fee.
+
+Onshore applicants: from 1 January 2025, all onshore
+student visa applications must include a valid CoE at the
+time of lodgement.
+
+Photographs:
+- Recent passport-style photo (45mm x 35mm) on a white
+  background, meeting Australian visa specifications.
+
+
+2. GENUINE STUDENT (GS) REQUIREMENT
+------------------------------------
+The GS requirement replaced the Genuine Temporary Entrant
+(GTE) requirement on 23 March 2024. All Subclass 500
+applications lodged on or after that date are assessed
+under GS.
+
+You answer four mandatory questions directly inside the
+ImmiAccount application form. Maximum 150 words per
+response, in English. Do NOT attach a separate "GS
+statement" PDF — the Department prefers responses in the
+form fields, with supporting evidence attached separately.
+
+The four GS questions cover:
+1. Your current circumstances — ties to family, community,
+   employment, and economic situation in your home country.
+2. Why you chose this specific course and education
+   provider in Australia, and your understanding of the
+   course requirements and life in Australia.
+3. How completing the course will benefit you personally
+   and professionally (in your home country, in Australia,
+   or another country).
+4. Any other relevant information you want to provide.
+
+A fifth question applies if you have previously held a
+student visa or are applying onshore from a non-student visa.
+
+Important: GS recognises that genuine students may
+develop skills Australia needs and later apply for
+permanent residence. Future PR intent does NOT count
+against you under GS, unlike under the old GTE test.
+
+Supporting evidence to upload alongside GS responses:
+- Academic transcripts and completion certificates from
+  previous study.
+- Course history if you have studied in Australia before
+  (with reasons for any provider changes).
+- Current employment evidence: employer letter, payslips,
+  contact details for verification.
+- Evidence of ties to home country: family, property,
+  business, community involvement.
+- Research you did into your chosen course/provider:
+  comparison notes, correspondence with the provider,
+  open day attendance.
+
+
+3. FINANCIAL EVIDENCE
+----------------------
+You must demonstrate genuine access to enough funds to
+cover tuition, living costs, schooling for any children,
+and return travel for your first 12 months.
+
+Acceptable evidence (one or a combination):
+- Personal bank statements covering at least the past
+  3–6 months.
+- Education loan approval letter from a registered
+  financial institution.
+- Scholarship or government sponsorship documentation.
+- Term deposit certificates.
+- Sponsor's financial documents accompanied by a
+  statutory declaration and proof of relationship.
+
+Annual income alternative: instead of available funds,
+you can demonstrate that your parents or partner earn:
+- AUD $72,465 per year (single applicant), or
+- AUD $84,543 per year (with family members in
+  application).
+Supported by official tax documents.
+
+The Department assesses both whether the funds exist
+and whether you have genuine access to them.
+
+
+4. ENGLISH LANGUAGE EVIDENCE
+-----------------------------
+Required unless you qualify for an exemption.
+
+Common minimums (your education provider may require
+higher scores):
+- IELTS Academic: 6.0 overall (5.5 if packaged with
+  ELICOS).
+- PTE Academic: 50.
+- TOEFL iBT: 64 (must be a secure test centre — home
+  editions are not accepted).
+- Cambridge English / OET: provider-equivalent scores.
+
+Test result must be from within the past two years.
+
+Common exemptions:
+- Passport holder of UK, USA, Canada, New Zealand, or
+  Republic of Ireland.
+- Five years of full-time study in English in eligible
+  countries.
+- Other exemptions listed in the Migration (English
+  Language Tests and Evidence Exemptions for Subclass
+  500) Instrument.
+
+
+5. OVERSEAS STUDENT HEALTH COVER (OSHC)
+----------------------------------------
+- Mandatory for the entire visa period.
+- Coverage must start from your arrival date in Australia.
+- Upload the OSHC certificate showing insurer name,
+  policy number, and coverage start/end dates.
+- Approved providers include Bupa, Medibank, Allianz,
+  ahm, and nib.
+
+
+6. ACADEMIC AND EMPLOYMENT DOCUMENTS
+-------------------------------------
+- Certified copies of all degrees, diplomas, and
+  transcripts from previous study.
+- NAATI-accredited translations for any non-English
+  documents.
+- Employment evidence if you've worked: employer
+  letters, payslips, role descriptions.
+- Resume / CV showing study and work history.
+
+
+7. SECONDARY APPLICANTS (PARTNER AND CHILDREN)
+-----------------------------------------------
+If you include family members:
+- Marriage certificate or evidence of de facto
+  relationship (12+ months of cohabitation, joint
+  finances, joint social recognition).
+- Birth certificates for dependent children.
+- Custody arrangements or consent letters from the
+  non-travelling parent for any children under 18 not
+  travelling with both parents.
+- Each secondary applicant needs their own GS dependent
+  responses.
+
+
+8. HEALTH AND CHARACTER
+------------------------
+Health examination:
+- Required for some applicants depending on country of
+  origin and intended stay length.
+- Booked through an approved panel physician.
+- Results go directly from the physician to the
+  Department — you do not upload them yourself.
+
+Character documents:
+- Police clearance / penal certificate from each country
+  you have lived in for 12+ months in the past 10 years.
+- Statutory declaration regarding character if requested.
+
+Biometrics:
+- Some applicants must visit a Visa Application Centre
+  (VAC) for fingerprints and photo. VACs operate in
+  major cities globally.
+
+
+9. COMMON REASONS FOR REFUSAL
+------------------------------
+- Insufficient or unverifiable financial evidence.
+- Inconsistencies between GS responses and supporting
+  documents.
+- Generic or AI-sounding GS responses with no specifics.
+- Course choice that does not align with academic or
+  employment background and lacks clear explanation.
+- Excessive focus on migration outcomes rather than
+  study intent.
+- Missing CoE for any course in a study package.
+
+
+10. PRACTICAL TIPS
+-------------------
+- Begin gathering documents 9–12 months before your
+  course start date.
+- Use clear, consistent file names (e.g.,
+  NAME_Passport.pdf, NAME_CoE.pdf).
+- Scan colour copies at 300 DPI minimum.
+- Cross-check that every document supports the same
+  narrative as your GS responses.
+- Always use the official Document Checklist Tool on the
+  Department of Home Affairs website for your specific
+  case — it tailors the list to your circumstances.

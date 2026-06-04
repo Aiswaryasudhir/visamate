@@ -1,0 +1,177 @@
+PR PATHWAYS FOR INTERNATIONAL STUDENTS IN AUSTRALIA — OVERVIEW
+===============================================================
+Last updated: May 2026
+Sources: Department of Home Affairs (immi.homeaffairs.gov.au)
+SkillSelect, Home Affairs visa listings.
+
+This document is an orientation map. It shows how international
+students typically move from the Student visa (subclass 500) to
+permanent residency in Australia. Each named visa subclass has
+its own dedicated file with detail; this file explains how they
+fit together.
+
+
+THE TYPICAL STUDENT-TO-PR JOURNEY
+----------------------------------
+The standard journey for an international student aiming for
+permanent residency looks like this:
+
+    [Subclass 500]   →   [Subclass 485]   →   [PR Visa]
+     Student visa       Temporary Graduate    189 / 190 / 491
+                                              (or 482 → 186)
+
+There is no single "best" pathway. Which permanent residency
+visa is right for you depends on:
+- Your nominated occupation (whether it is on the relevant
+  skilled occupation lists).
+- Your points score (age, English, qualifications, work
+  experience).
+- Whether you have an Australian employer willing to sponsor
+  you.
+- Whether you are willing to live in a regional area.
+- Your timeline and risk tolerance.
+
+
+PATHWAY 1: 500 → 485 → 189 (POINTS-TESTED, NO SPONSORSHIP)
+-----------------------------------------------------------
+Subclass 189 Skilled Independent visa.
+- Direct permanent residency, no sponsorship required.
+- Strictly points-tested via SkillSelect.
+- Occupation must be on the Medium and Long-term Strategic
+  Skills List (MLTSSL).
+- Theoretical minimum to submit an Expression of Interest is
+  65 points, but in 2025-26, competitive scores are typically
+  85-95+ depending on the occupation.
+- Annual program is small and highly selective.
+- Best for: top-scoring applicants in high-demand occupations
+  (some healthcare, engineering, IT roles).
+
+For most students, the 189 is not realistic without significant
+points from age, English, qualifications, and work experience.
+The 485 visa is often used to accumulate points (Australian
+work experience, Professional Year, etc.) before applying.
+
+
+PATHWAY 2: 500 → 485 → 190 (STATE-NOMINATED PR)
+------------------------------------------------
+Subclass 190 Skilled Nominated visa.
+- Permanent residency from grant.
+- Requires nomination by an Australian state or territory.
+- State nomination adds 5 points to your score.
+- Occupation must be on the MLTSSL or STSOL, plus the
+  nominating state's specific occupation list.
+- Around 12,850 places allocated nationally for 2025-26.
+- Includes a two-year commitment to live in the nominating
+  state.
+- Best for: applicants whose occupation is in demand in a
+  specific state but not competitive enough for 189.
+
+
+PATHWAY 3: 500 → 485 → 491 → 191 (REGIONAL PROVISIONAL → PR)
+-------------------------------------------------------------
+Subclass 491 Skilled Work Regional (Provisional) visa.
+- Five-year provisional visa, NOT immediate PR.
+- Requires state OR eligible family member nomination.
+- State/family nomination adds 15 points (more than 190).
+- Must live and work in a designated regional area
+  (which includes most of Australia except Sydney, Melbourne,
+  and Brisbane).
+- Around 7,500 places allocated nationally for 2025-26.
+- Leads to permanent residency via the Subclass 191 visa
+  after meeting requirements (typically 3 years of regional
+  residence and minimum income).
+- Best for: applicants willing to commit to regional Australia
+  in exchange for easier nomination.
+
+Important for Melbourne-based students: Melbourne itself is
+NOT a regional area for 491 purposes. Designated regional
+areas in Victoria include Geelong, Ballarat, Bendigo, and
+most of regional Victoria, but you would need to relocate.
+
+
+PATHWAY 4: 500 → 485 → 482 → 186 (EMPLOYER-SPONSORED)
+-------------------------------------------------------
+Subclass 482 Skills in Demand visa (employer-sponsored temporary)
+→ Subclass 186 Employer Nomination Scheme visa (permanent).
+
+The 482 (formerly TSS) was renamed Skills in Demand on
+7 December 2024 with three new streams:
+- Core Skills stream: occupation on Core Skills Occupation
+  List (CSOL), salary AUD $76,515+.
+- Specialist Skills stream: any ANZSCO occupation, salary
+  AUD $141,210+, 7-day processing.
+- Labour Agreement / Essential Skills stream.
+
+Pathway:
+- Find an Australian employer willing to sponsor you.
+- Employer must be an approved Standard Business Sponsor.
+- Work in the nominated occupation for 2 years.
+- Transition to permanent residency via Subclass 186 under
+  the Temporary Residence Transition (TRT) stream.
+- Reduced from the previous 3-year work requirement.
+
+Best for: applicants with a genuine job offer in their
+nominated occupation. Bypasses the points test entirely.
+
+
+COMPARING THE PATHWAYS AT A GLANCE
+-----------------------------------
+- Fastest to PR (if eligible): 189 or 190 (immediate PR on grant).
+- Easiest to get nominated: 491 (regional, more places relative
+  to demand, +15 points vs +5 for 190).
+- No points test needed: 482 → 186 (employer-sponsored).
+- No location commitment: 189 (the only truly unrestricted PR).
+
+Most international students pursue MULTIPLE pathways in
+parallel — submitting a 189 EOI while also seeking state
+nomination for 190 or 491, and exploring employer sponsorship
+opportunities through their 485 work rights.
+
+
+COMMON SEQUENCE OF EVENTS
+--------------------------
+A typical timeline for someone aiming at points-tested PR:
+
+Year 1-2:  Study on subclass 500.
+Year 2-3:  Complete degree, apply for subclass 485.
+Year 3-5:  Use 485 work rights to:
+           - Gain Australian work experience (points).
+           - Consider Professional Year (5 points).
+           - Improve English test scores (more points).
+           - Get skills assessment (mandatory for points-tested).
+           - Submit EOI in SkillSelect.
+           - Seek state nomination.
+Year 4-6:  Apply for 189 / 190 / 491 if invited.
+Year 5+:   Permanent residency, citizenship eligible after
+           4 years of lawful residence.
+
+
+KEY TERMS YOU WILL SEE
+-----------------------
+- SkillSelect: the online system for submitting Expressions of
+  Interest (EOIs) for skilled visas.
+- EOI: Expression of Interest. Free to submit. Does not
+  guarantee an invitation.
+- ITA: Invitation to Apply. Issued by the Department of Home
+  Affairs based on points and occupation. 60 days to lodge
+  the actual visa application.
+- Skills assessment: a positive assessment by the relevant
+  assessing authority (e.g., ACS for IT, Engineers Australia,
+  VETASSESS for general professional occupations) confirming
+  your qualifications meet Australian standards. Mandatory
+  for points-tested visas.
+- MLTSSL: Medium and Long-term Strategic Skills List.
+- STSOL: Short-term Skilled Occupation List.
+- CSOL: Core Skills Occupation List (for the new 482 SID
+  Core Skills stream).
+- ANZSCO: Australian and New Zealand Standard Classification
+  of Occupations. The catalogue of occupations and their codes.
+
+
+THIS IS A GENERAL MAP — NOT MIGRATION ADVICE
+---------------------------------------------
+Migration rules change frequently and individual circumstances
+matter. For decisions about your specific case, consult a
+MARA-registered migration agent. The information in this
+file is current as of May 2026 and is intended to help
+international students orient themselves to the landscape.

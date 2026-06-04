@@ -1,0 +1,224 @@
+GENERAL SKILLED MIGRATION POINTS TEST — EXPLAINER
+==================================================
+Last updated: May 2026
+Sources: Department of Home Affairs (immi.homeaffairs.gov.au),
+SkillSelect points table.
+
+This file explains how points are calculated for the
+points-tested skilled visas: subclass 189 (Skilled
+Independent), subclass 190 (Skilled Nominated), and
+subclass 491 (Skilled Work Regional).
+
+You must score at least 65 points to submit an Expression
+of Interest (EOI). However, the minimum to be COMPETITIVE
+and actually receive an invitation is much higher — typically
+85-95+ points for the 189 in 2025-26, depending on occupation.
+
+
+WHEN POINTS ARE LOCKED IN
+--------------------------
+Your points are assessed at TWO moments:
+1. When you submit your EOI in SkillSelect.
+2. At the date of invitation (Invitation to Apply / ITA).
+
+If you turn a higher age band, your wedding date passes,
+your test score expires, or your skills assessment lapses
+BEFORE the ITA, your points change. Many invitations are
+withdrawn at the verification stage for this reason.
+
+
+CATEGORY 1: AGE
+----------------
+Maximum 30 points. Age is calculated at the time of invitation.
+- 18-24:   25 points
+- 25-32:   30 points
+- 33-39:   25 points
+- 40-44:   15 points
+- 45+:     Ineligible — you must be UNDER 45 at invitation.
+
+Implication: Many applicants try to time their EOI to capture
+the highest possible age points before aging out of a band.
+
+
+CATEGORY 2: ENGLISH LANGUAGE
+-----------------------------
+Maximum 20 points. Based on your most recent English test
+result (valid for 3 years).
+- Competent English:  0 points (required minimum — IELTS 6.0
+                      in each band, or equivalent)
+- Proficient English: 10 points (IELTS 7.0 in each band,
+                      or equivalent)
+- Superior English:   20 points (IELTS 8.0 in each band,
+                      or equivalent)
+
+Accepted tests include IELTS Academic, IELTS General Training,
+PTE Academic, TOEFL iBT, OET, and Cambridge English.
+
+This is one of the most controllable point categories. Many
+applicants retake tests multiple times to push from 10 to 20.
+
+
+CATEGORY 3: SKILLED EMPLOYMENT OVERSEAS
+----------------------------------------
+Maximum 15 points. Must be in your nominated occupation or
+a closely related occupation. Skills assessing authority
+must confirm the work counts.
+- Less than 3 years:   0 points
+- 3-4 years:           5 points
+- 5-7 years:          10 points
+- 8-10 years:         15 points
+
+
+CATEGORY 4: SKILLED EMPLOYMENT IN AUSTRALIA
+--------------------------------------------
+Maximum 20 points. Combined with overseas experience, the
+maximum across both categories is 20 points.
+- Less than 1 year:    0 points
+- 1-2 years:           5 points
+- 3-4 years:          10 points
+- 5-7 years:          15 points
+- 8-10 years:         20 points
+
+Implication: Australian work experience is worth substantially
+more per year than overseas experience. This is a major reason
+to use 485 work rights aggressively to build points.
+
+
+CATEGORY 5: EDUCATIONAL QUALIFICATIONS
+---------------------------------------
+Maximum 20 points. Highest qualification only — these do not
+stack.
+- Doctorate (PhD) from Australian or recognised institution:
+  20 points
+- Bachelor's degree (including Bachelor's Honours) or Master's:
+  15 points
+- Diploma or trade qualification: 10 points
+- Award/qualification recognised by the assessing authority
+  but not above: 10 points
+
+
+CATEGORY 6: AUSTRALIAN STUDY REQUIREMENT
+-----------------------------------------
+5 points. Awarded if you completed at least one degree,
+diploma, or trade qualification from an Australian institution
+that:
+- Took at least 2 academic years (92 weeks of study).
+- Was completed in person in Australia.
+- Was taught in English.
+
+This is the easiest 5 points to earn for any international
+student who completed a 2-year+ Australian qualification.
+
+
+CATEGORY 7: SPECIALIST EDUCATION QUALIFICATION
+-----------------------------------------------
+10 points. Awarded for a Master's by research or PhD from an
+Australian institution where the qualification includes at
+least 2 years of study in one of the following:
+- Biological sciences
+- Computer sciences
+- Engineering and related technologies
+- Mathematical sciences
+- Natural and physical sciences
+
+(Often called "STEM points" informally.)
+
+
+CATEGORY 8: STUDY IN REGIONAL AUSTRALIA
+----------------------------------------
+5 points. Awarded if your Australian Study Requirement
+(2-year qualification) was completed at a campus in a
+designated regional area.
+
+This does NOT include Sydney, Melbourne, or Brisbane
+metropolitan areas.
+
+
+CATEGORY 9: ACCREDITED COMMUNITY LANGUAGE
+------------------------------------------
+5 points. Awarded if you are accredited at the paraprofessional
+level (or above) by NAATI in a recognised community language
+other than English.
+
+
+CATEGORY 10: PARTNER SKILLS
+----------------------------
+Up to 10 points.
+- Partner meets age, skills, English, and occupation
+  requirements: 10 points
+- Partner has Competent English only: 5 points
+- Single applicant, OR partner is Australian citizen/PR:
+  10 points (yes, being single can earn the same as a
+  fully-skilled partner)
+
+
+CATEGORY 11: PROFESSIONAL YEAR
+-------------------------------
+5 points. Awarded for completing a Professional Year
+program (typically 12 months) in accounting, IT, or
+engineering through an approved provider.
+
+Often pursued by recent graduates on 485 visas to:
+- Earn 5 extra points.
+- Gain practical Australian work experience.
+- Strengthen their employability.
+
+
+CATEGORY 12: STATE/TERRITORY NOMINATION OR FAMILY SPONSORSHIP
+--------------------------------------------------------------
+- Subclass 190 (state-nominated): 5 points
+- Subclass 491 (state-nominated OR eligible family-sponsored): 15 points
+
+These points only count if you are applying for the
+corresponding visa.
+
+
+WORKED EXAMPLE — TYPICAL RECENT GRADUATE
+-----------------------------------------
+Profile: 28 years old, Master's degree from an Australian
+non-regional university, Proficient English (IELTS 7+),
+2 years of Australian work experience, no Professional Year,
+single, no STEM specialist points.
+
+- Age (25-32): 30
+- Proficient English: 10
+- Master's degree: 15
+- Australian Study Requirement: 5
+- Australian work experience (2 years): 5
+- Single: 10
+
+Total: 75 points (below the 85-95+ competitive threshold
+for 189, but viable for a state-nominated 190 with +5 = 80,
+or a regional 491 with +15 = 90).
+
+
+WHERE TO IMPROVE A WEAK SCORE
+------------------------------
+Most students reach this calculation and realise they need
+more points. The most controllable improvements are:
+- Pushing English from Proficient (10) to Superior (20):
+  +10 points. Often the single biggest unlock.
+- More Australian work experience: 5 → 10 → 15 → 20 points
+  over time.
+- Professional Year program: +5 points.
+- NAATI community language accreditation: +5 points.
+- State nomination: +5 (190) or +15 (491).
+- Studying in regional Australia: +5 points (but this is
+  a decision made years before applying).
+
+
+SUBMIT AN EOI BEFORE YOU "FEEL READY"
+--------------------------------------
+The EOI is free and easy to update. Submit early with your
+current honest score, then revise as your situation improves.
+Your EOI's lodge date can affect tie-breaking in invitation
+rounds, so earlier is better — even if you start below the
+competitive threshold.
+
+
+THIS IS A GENERAL EXPLAINER — NOT MIGRATION ADVICE
+---------------------------------------------------
+Points rules change. Edge cases exist. For decisions about
+your specific case, consult a MARA-registered migration agent
+or use the official SkillSelect points calculator on the
+Department of Home Affairs website.
