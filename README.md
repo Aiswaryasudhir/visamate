@@ -2,7 +2,7 @@
 
 > A conversational Retrieval-Augmented Generation (RAG) system grounded in official Australian government sources, designed to help international students navigate the path from student visa to permanent residency.
 
-**[🌐 Live demo](https://your-deployed-url-here)** · **[📂 GitHub](https://github.com/your-username/visamate)**
+**[Live demo](https://your-deployed-url-here)** · **[GitHub](https://github.com/Aiswaryasudhir/visamate)**
 
 ---
 
@@ -416,7 +416,7 @@ visamate/
 ### 1. Clone and install
 
 ```bash
-git clone https://github.com/your-username/visamate.git
+git clone https://github.com/Aiswaryasudhir/visamate.git
 cd visamate
 python -m venv .venv
 .venv\Scripts\activate          # Windows
@@ -567,4 +567,4 @@ Source content from the [Australian Department of Home Affairs](https://immi.hom
 
 Built by **Aiswarya Sudhir**
 
-[LinkedIn](https://www.linkedin.com/in/your-linkedin) · [GitHub](https://github.com/your-username) · [aiswaryasudhir@gmail.com](mailto:aiswaryasudhir@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/aiswarya-sudhir-008092178/) · [GitHub](https://github.com/Aiswaryasudhir) · [aiswaryasudhir@gmail.com](mailto:aiswaryasudhir@gmail.com)
