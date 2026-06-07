@@ -13,7 +13,7 @@ license: mit
 
 > A conversational Retrieval-Augmented Generation (RAG) system grounded in official Australian government sources, designed to help international students navigate the path from student visa to permanent residency.
 
-**[Live demo](https://your-deployed-url-here)** · **[GitHub](https://github.com/Aiswaryasudhir/visamate)**
+**[Live demo](https://huggingface.co/spaces/Aiswarya2501/visamate)** · **[GitHub](https://github.com/Aiswaryasudhir/visamate)**
 
 ---
 
