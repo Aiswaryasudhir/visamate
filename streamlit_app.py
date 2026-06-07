@@ -8,6 +8,18 @@ APP_DIR = Path(__file__).resolve().parent / "app"
 if str(APP_DIR) not in sys.path:
     sys.path.insert(0, str(APP_DIR))
 
+# ---------------------------------------------------------------------------
+# First-run index build (for HF Spaces, where chroma_db isn't in the repo)
+# ---------------------------------------------------------------------------
+from pathlib import Path  # noqa: E402
+
+CHROMA_PATH = Path(__file__).resolve().parent / "chroma_db"
+if not CHROMA_PATH.exists() or not any(CHROMA_PATH.iterdir()):
+    print("⚙️  Chroma index not found. Building from data/raw/ ...")
+    from build_index import main as build_index_main  # noqa: E402
+    build_index_main()
+    print("✅ Index built.")
+
 import streamlit as st  # noqa: E402
 
 from config import LLM_PROVIDER, validate_environment  # noqa: E402
