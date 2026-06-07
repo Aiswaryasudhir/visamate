@@ -8,6 +8,7 @@ from __future__ import annotations
 from playwright.sync_api import Page, sync_playwright
 
 from config import DATA_RAW_DIR, SCRAPE_URLS
+import os
 
 
 EXPAND_SELECTORS = [
@@ -96,7 +97,8 @@ def main() -> None:
     DATA_RAW_DIR.mkdir(parents=True, exist_ok=True)
 
     with sync_playwright() as p:
-        browser = p.chromium.launch(headless=False)
+        headless = os.getenv("PLAYWRIGHT_HEADLESS", "true").lower() == "true"
+        browser = p.chromium.launch(headless=headless)
 
         for name, url in SCRAPE_URLS.items():
             print(f"\nScraping: {name}")
