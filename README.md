@@ -1,3 +1,14 @@
+---
+title: VisaMate
+emoji: 🌿
+colorFrom: green
+colorTo: gray
+sdk: streamlit
+sdk_version: 1.36.0
+app_file: streamlit_app.py
+pinned: false
+license: mit
+---
 # 🌿 VisaMate
 
 > A conversational Retrieval-Augmented Generation (RAG) system grounded in official Australian government sources, designed to help international students navigate the path from student visa to permanent residency.
