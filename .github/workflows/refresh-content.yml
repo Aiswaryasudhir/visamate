@@ -1,0 +1,83 @@
+name: Weekly content refresh
+
+on:
+  schedule:
+    # Every Monday at 06:00 UTC (Monday 5pm AEDT in winter, 4pm in summer)
+    - cron: '0 6 * * 1'
+  workflow_dispatch:  # Allows manual trigger from the Actions tab
+
+permissions:
+  contents: write  # Required to commit scraped changes back to main
+
+jobs:
+  refresh-and-deploy:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          # Need full history for git LFS to work on push
+          fetch-depth: 0
+          lfs: true
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.13'
+
+      - name: Install Python dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Install Playwright Chromium
+        run: |
+          playwright install chromium
+          playwright install-deps chromium
+
+      - name: Run scraper
+        working-directory: ./app
+        run: python scrape_visa_page.py
+        continue-on-error: true  # Don't fail the whole workflow if one URL is flaky
+
+      - name: Check for content changes
+        id: changes
+        run: |
+          if [[ -n $(git status --porcelain data/raw/) ]]; then
+            echo "changed=true" >> $GITHUB_OUTPUT
+            echo "📝 Content changed — proceeding to commit"
+            git status --short data/raw/
+          else
+            echo "changed=false" >> $GITHUB_OUTPUT
+            echo "✅ No content changes — skipping commit"
+          fi
+
+      - name: Commit and push to GitHub
+        if: steps.changes.outputs.changed == 'true'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/raw/
+          git commit -m "Auto-refresh: weekly content scrape ($(date -u +'%Y-%m-%d'))"
+          git push origin main
+
+      - name: Push to Hugging Face Space
+        if: steps.changes.outputs.changed == 'true'
+        env:
+          HF_TOKEN: ${{ secrets.HF_TOKEN }}
+          HF_USERNAME: ${{ secrets.HF_USERNAME }}
+        run: |
+          git push "https://${HF_USERNAME}:${HF_TOKEN}@huggingface.co/spaces/${HF_USERNAME}/visamate" main
+
+      - name: Summary
+        if: always()
+        run: |
+          if [[ "${{ steps.changes.outputs.changed }}" == "true" ]]; then
+            echo "## ✅ Refreshed successfully" >> $GITHUB_STEP_SUMMARY
+            echo "Content changes were committed and pushed to GitHub + HF Space." >> $GITHUB_STEP_SUMMARY
+          else
+            echo "## ✅ No changes this week" >> $GITHUB_STEP_SUMMARY
+            echo "All sources are unchanged. Skipped commit and deploy." >> $GITHUB_STEP_SUMMARY
+          fi
