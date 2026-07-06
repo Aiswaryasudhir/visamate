@@ -1,6 +1,6 @@
 Access Denied
 You don't have permission to access "http://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/student-500/genuine-student-requirement" on this server.
 
-Reference #18.8f9b3e17.1782731667.2c4dd4d6
+Reference #18.c70ec617.1783335112.4fafad13
 
-https://errors.edgesuite.net/18.8f9b3e17.1782731667.2c4dd4d6
+https://errors.edgesuite.net/18.c70ec617.1783335112.4fafad13
